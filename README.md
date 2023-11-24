@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Abu-Bilal04
 - 👀 I’m interested in critical thinking
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 mibrahimmusa34@gmail.com
 
 <!---
 Abu-Bilal04/Abu-Bilal04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
